@@ -1,0 +1,40 @@
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.LCC11.dll
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\W7\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\Interop.LCC11.dll
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\W7\Desktop\my files\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\Interop.LCC11.dll
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\arşiv\Samet\Yapılan programlar\BARKOD OKUMA YAZILIMI DÜZENLEME YAPILACAK\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
